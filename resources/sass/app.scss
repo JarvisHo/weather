@@ -1,0 +1,14 @@
+[v-cloak] {
+    display: none;
+}
+
+// Variables
+@import 'normalize';
+@import 'variables';
+@import 'color';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
